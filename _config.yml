@@ -1,0 +1,51 @@
+layout_spectrum: 0.13479188155714827
+typography_spectrum: 0.19358934413254408
+color:
+  brandStrength: 0.26870811574548337
+  lightness: 0.7558161147759471
+  saturation: 0.3489256149730507
+  rhythmicContrast: 0.6794389831278437
+  brandColors:
+    - '#F4F2EE'
+    - '#FAF8F2'
+    - '#FDFCF9'
+    - '#EFECE9'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: style
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d3b2cda-2efe-46da-bf6a-c8c750054b3e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d3b2cda-2efe-46da-bf6a-c8c750054b3e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: style
+description: the essence of dzign..
+analytics:
+  google: UA-100557968-1
+github: true
