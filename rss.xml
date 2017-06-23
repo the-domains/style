@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[style]]></title>
+        <description><![CDATA[style]]></description>
+        <link>https://thegrid.ai/style/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Jun 2017 20:40:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/style/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sometimes its personal..]]></title>
+            <description><![CDATA[<h1>Sometimes its personal..</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8de7d8c-373d-4911-82ba-fcbc3f013511.jpg">]]></description>
+            <link>https://thegrid.ai/style/sometimes-its-personal/index.html</link>
+            <guid isPermaLink="false">e02d3260-fe2c-41e7-ae79-04763b11d796</guid>
+            <pubDate>Fri, 23 Jun 2017 20:39:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
