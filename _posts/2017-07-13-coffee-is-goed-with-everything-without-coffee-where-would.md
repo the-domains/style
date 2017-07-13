@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   coffee is goed with everything.. without coffee where would we be ? ..sayin’
   that, I haven’t had a cup of coffee in about 7 mths… 
-dateModified: '2017-07-13T13:52:47.670Z'
-datePublished: '2017-07-13T13:52:48.205Z'
+dateModified: '2017-07-13T13:53:04.330Z'
+datePublished: '2017-07-13T13:53:04.456Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-07-13-coffee-is-goed-with-everything-without-coffee-where-would.md
 starred: false
 datePublishedOriginal: '2017-07-13T13:52:48.205Z'
-sourcePath: _posts/2017-07-13-coffee-is-goed-with-everything-without-coffee-where-would.md
 _type: Blurb
 
 ---
