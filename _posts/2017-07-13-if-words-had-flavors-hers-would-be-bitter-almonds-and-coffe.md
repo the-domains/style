@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'If words had flavors, hers would be bitter almonds and coffee grounds.'
-dateModified: '2017-07-13T14:02:17.096Z'
-datePublished: '2017-07-13T14:02:17.670Z'
+dateModified: '2017-07-13T14:02:23.749Z'
+datePublished: '2017-07-13T14:02:24.257Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-07-13T14:02:17.670Z'
 sourcePath: >-
   _posts/2017-07-13-if-words-had-flavors-hers-would-be-bitter-almonds-and-coffe.md
+starred: false
+datePublishedOriginal: '2017-07-13T14:02:17.670Z'
 _type: Blurb
 
 ---
