@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   coffee is goed with everything.. without coffee where would we be ? ..sayin’
   that, I haven’t had a cup of coffee in about 7 mths… 
-dateModified: '2017-07-13T13:53:04.330Z'
-datePublished: '2017-07-13T13:53:04.456Z'
+dateModified: '2017-07-13T14:02:37.816Z'
+datePublished: '2017-07-13T14:02:37.993Z'
 title: ''
 author: []
 publisher: {}
