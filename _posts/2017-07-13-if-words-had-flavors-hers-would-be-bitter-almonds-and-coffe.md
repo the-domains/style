@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'If words had flavors, hers would be bitter almonds and coffee grounds.'
-dateModified: '2017-07-13T14:02:37.816Z'
-datePublished: '2017-07-13T14:02:37.994Z'
+dateModified: '2017-07-13T14:20:21.792Z'
+datePublished: '2017-07-13T14:20:21.928Z'
 title: ''
 author: []
 publisher: {}
